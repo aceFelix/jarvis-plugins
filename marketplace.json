@@ -1,0 +1,42 @@
+{
+  "name": "jarvis-plugins",
+  "version": "1",
+  "plugins": [
+    {
+      "name": "weather",
+      "description": "天气查询技能包 —— 实时天气与预报查询",
+      "version": "1.0.0",
+      "author": "acefelix",
+      "source": {
+        "type": "github-subdir",
+        "repo": "acefelix/jarvis-plugins",
+        "subdir": "plugins/weather",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "everything-sdk",
+      "description": "Everything SDK 技能包 —— 让 Jarvis 通过 Everything 引擎超高速搜索本地文件",
+      "version": "1.0.0",
+      "author": "acefelix",
+      "source": {
+        "type": "github-subdir",
+        "repo": "acefelix/jarvis-plugins",
+        "subdir": "plugins/everything-sdk",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "speech-sense",
+      "description": "语音感知技能包 —— 增强 Jarvis 的语音对话能力，让模型知道自己处于语音模式并理解用户语音交互特征（停顿、打断、追问等）",
+      "version": "1.0.0",
+      "author": "acefelix",
+      "source": {
+        "type": "github-subdir",
+        "repo": "acefelix/jarvis-plugins",
+        "subdir": "plugins/speech-sense",
+        "ref": "main"
+      }
+    }
+  ]
+}

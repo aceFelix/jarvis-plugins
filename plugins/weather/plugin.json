@@ -1,0 +1,8 @@
+{
+  "name": "weather",
+  "description": "天气查询技能包 —— 实时天气与预报查询",
+  "version": "1.0.0",
+  "author": "acefelix",
+  "skills": ["weather"],
+  "mcp_servers": []
+}
