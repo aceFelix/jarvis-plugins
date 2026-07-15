@@ -11,7 +11,7 @@
         "type": "github-subdir",
         "repo": "acefelix/jarvis-plugins",
         "subdir": "plugins/weather",
-        "ref": "main"
+        "ref": "master"
       }
     },
     {
@@ -23,7 +23,7 @@
         "type": "github-subdir",
         "repo": "acefelix/jarvis-plugins",
         "subdir": "plugins/everything-sdk",
-        "ref": "main"
+        "ref": "master"
       }
     },
     {
@@ -35,7 +35,7 @@
         "type": "github-subdir",
         "repo": "acefelix/jarvis-plugins",
         "subdir": "plugins/speech-sense",
-        "ref": "main"
+        "ref": "master"
       }
     }
   ]
