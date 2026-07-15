@@ -1,0 +1,8 @@
+{
+  "name": "speech-sense",
+  "description": "语音感知技能包 —— 增强 Jarvis 语音对话能力，让模型理解语音交互特征",
+  "version": "1.0.0",
+  "author": "acefelix",
+  "skills": ["speech-sense"],
+  "mcp_servers": []
+}

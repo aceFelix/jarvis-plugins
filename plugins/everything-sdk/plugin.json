@@ -1,0 +1,8 @@
+{
+  "name": "everything-sdk",
+  "description": "Everything SDK 技能包 —— 让 Jarvis 通过 Everything 引擎超高速搜索本地文件",
+  "version": "1.0.0",
+  "author": "acefelix",
+  "skills": ["everything-sdk"],
+  "mcp_servers": []
+}
