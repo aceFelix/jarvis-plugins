@@ -1,15 +1,15 @@
-# J.A.R.V.I.S Plugin Marketplace
+# Jarvis Plugin Marketplace
 
-J.A.R.V.I.S 官方插件市场 —— 安装 J.A.R.V.I.S 后即可使用，无需额外配置。
+jarvis 官方插件市场 —— 安装 jarvis 后即可使用，无需额外配置。
 
 ## 前置条件
 
-- 已安装 [J.A.R.V.I.S](https://github.com/aceFelix/J.A.R.V.I.S) 个人 AI 助手
-- Jarvis 运行正常（`jarvis` 或 `python -m agent.main`）
+- 已安装 [jarvis](https://github.com/aceFelix/jarvis) 个人 AI 助手
+- jarvis 运行正常（`jarvis` 或 `python -m agent.main`）
 
 ## 使用方式
 
-在 Jarvis 对话中输入斜杠命令：
+在 jarvis 对话中输入斜杠命令：
 
 ```bash
 # 搜索插件
@@ -99,7 +99,7 @@ trigger_words: 触发词1, 触发词2
 
 # Skill Title
 
-技能提示词正文，会被注入到 Jarvis 的系统提示词中。
+技能提示词正文，会被注入到 jarvis 的系统提示词中。
 ```
 
 ### .mcp.json 格式
